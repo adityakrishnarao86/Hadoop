@@ -1,0 +1,11 @@
+Python is a scripting language 
+Here we are writing the data to a file 
+Its a file operation 
+Thanks python 
+NEW LINE ADDED HERE TO THE EXISTING FILE 
+Added line1Added line2Added line3Added line1 	
+Added line2 		
+Added line3 			
+Added line1 
+Added line2 
+Added line3 
